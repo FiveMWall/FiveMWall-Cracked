@@ -1,3 +1,5 @@
+-- Esto os lo dejamos desencriptadito para que veais la mierda de paste del LR
+
 Citizen.CreateThread(function()
 	TriggerServerEvent("HOSTETE-ANTICHEAT")
 	TriggerServerEvent("HSTETE:cachearPlayers")
