@@ -1,0 +1,12 @@
+#-------------------ADD THAT TO YOUR SERVER.CFG------------------#
+#-----------------WORK WITH STEAM ID OR DISCORD ID---------------#
+
+add_ace FiveMWalladministrator FiveMWalladmin allow
+add_ace FiveMWallmoderator FiveMWallmod allow
+
+add_principal identifier.steam:(steam id, sacalo de los logs) FiveMWalladministrator
+
+
+
+#-----------------------------FOR OPPEN ADMIN MENU PRESS M (M)-------------------#
+#-----------------------------Configura los logs en el configs.lua--------------------#
